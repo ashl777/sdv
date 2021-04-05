@@ -1,4 +1,4 @@
-## Welcome to 刘丰恺 Pages
+## 欢迎来到刘丰恺的主页
 
 You can use the [editor on GitHub](https://github.com/ashl777/ashl777-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
